@@ -3,4 +3,5 @@ package com.example.batteryv2;
 
 public final class BuildConfig {
     public final static boolean DEBUG = true;
+    
 }
